@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1315,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,6 +37,10 @@
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Generic.xaml",
@@ -45,16 +49,15 @@
               "ToolTip": "C:\\Users\\mitrovic\\source\\repos\\toggle-switch-control\\WPF\\ToggleSwitch\\Themes\\Generic.xaml",
               "RelativeToolTip": "ToggleSwitch\\Themes\\Generic.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-02T09:21:20.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:21:20.575Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ToggleSwitch",
-              "DocumentMoniker": "C:\\Users\\mitrovic\\Source\\Repos\\toggle-switch-control\\WPF\\ToggleSwitch\\ToggleSwitch.csproj",
+              "DocumentMoniker": "C:\\Users\\mitrovic\\source\\repos\\toggle-switch-control\\WPF\\ToggleSwitch\\ToggleSwitch.csproj",
               "RelativeDocumentMoniker": "ToggleSwitch\\ToggleSwitch.csproj",
-              "ToolTip": "C:\\Users\\mitrovic\\Source\\Repos\\toggle-switch-control\\WPF\\ToggleSwitch\\ToggleSwitch.csproj",
+              "ToolTip": "C:\\Users\\mitrovic\\source\\repos\\toggle-switch-control\\WPF\\ToggleSwitch\\ToggleSwitch.csproj",
               "RelativeToolTip": "ToggleSwitch\\ToggleSwitch.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-02T09:08:31.268Z",
