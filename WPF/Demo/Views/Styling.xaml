@@ -75,7 +75,7 @@
                     Width="78" 
                     UncheckedBackground="#FF333430" 
                     UncheckedForeground="#FF999999" 
-                    ThumbSize="38" 
+                    ThumbSize="18" 
                     Style="{StaticResource MetroToggleSwitchStyle}" IsChecked="True" HorizontalAlignment="Left">
                     <ToggleSwitch:HorizontalToggleSwitch.CheckedBackground>
                         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
