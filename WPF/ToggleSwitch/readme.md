@@ -1,1 +1,1 @@
-﻿Fork of https://github.com/ejensen/toggle-switch-control with targets for Net8.0-windows, Net6.0-windows, net481, net46
+﻿Fork of https://github.com/ejensen/toggle-switch-control with targets for Net9.0-windows, Net8.0-windows, Net6.0-windows, net481, net46
